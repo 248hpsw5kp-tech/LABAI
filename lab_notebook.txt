@@ -1,0 +1,12 @@
+
+2026-02-19 02:33:47.481848 - To affordably extract DNA from E. coli K-12 using Taq polymerase:
+
+1. Grow a culture of E. coli to mid-log phase (OD600 around 0.4) in LB broth supplemented with appropriate antibiotics if required, like ampicillin or kanamycin for selection markers.
+2. Centrifuge the bacterial suspension and discard the supernatant to remove cell debris. Keep only the pellet at a low temperature (4°C) until all centrifugation steps are complete.
+3. Resuspend the pellet in cold TE buffer containing Tris-HCl, pH 8.0 with EDTA as a chelating agent for Mg2+ to prevent amplification by existing DNA/RNA (e.g., use Taq_TE).
+4. Add lysozyme and lyticase or perform mechanical disruption using a French press or beadbeater in TE buffer, incubate at 37°C for about an hour to break the cell walls efficiently without harsh conditions that could degrade DNA quality.
+5. Perform alkaline lysis: Mix bacterial pellet with TE buffer and add Tris-Cl (pH ~10) containing SDS, phenol red as a pH indicator for about 3 min at room temperature; centrifuge to separate into two phases—cell debris/DNA stay in the supernatant while organic layer forms.
+6. Collect both layers carefully using pipettes and transfer them back to TE buffer containing RNase (10U per sample) for a few minutes on ice, remove proteins from DNA by centrifugation; combine two aliquots with phenol/chloroform:isoamyl alcohol (25:144:1), vortex briefly and spin down phases to separate.
+7. Transfer the desired quantity of the aqueous layer directly into another tube containing neutralization buffer, which usually consists of 0.03M EDTA in TE pH 8, mix gently on ice; precipitate DNA by adding cold ethanol or isopropanol (better yield) and incubate at -20°C for a couple hours to overnight until cleaned up from enzymes/proteins.
+8. Centrifuge the sample again, collecting only supernatant containing pure DNA pellet after removing precipitated ethanol or isopropanol by pipetting off gently and discarding; resuspend in TE buffer for storage at 4°C until needed for PCR with Taq polymerase.
+9. To verify successful extraction, run the sample on an agarose gel electrophoresis alongside a DNA marker or cut genomic E. coli K-12 DNAs as controls before use in PCR reactions to confirm amplicon size and yield using Taq polymerase due to its optimal activity at higher temperatures, like 72°C during extension step of the reaction.
